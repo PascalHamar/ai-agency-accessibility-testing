@@ -1,4 +1,4 @@
-# ai-agency-accessibility-testing
+# AI Agency for WCAG accessibility testing
 A system for automated accessibility testing of websites using AI agents.
 
 ## 📂 Project Structure
