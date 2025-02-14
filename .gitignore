@@ -1,0 +1,25 @@
+# Node.js / React / Next.js
+node_modules/
+.npm/
+.yarn/
+dist/
+.env
+.next/
+out/
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Docker
+docker-compose.override.yml
+*.dockerfile
+
+# VS Code
+.vscode/
+.history/
+.DS_Store
